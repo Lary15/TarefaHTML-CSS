@@ -1,0 +1,66 @@
+.tabelaPedido{
+    width: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+}
+.tbody td{
+    border-bottom: 2px solid #DEE2E6;;
+}
+.tabelaPedido td {
+    padding: 10px 15px;
+    color: #868686;
+    text-align: left;
+    
+}
+.tabelaPedido th {
+    text-align: left;
+    padding: 15px 15px;
+    background-color: #DEE2E6;
+    color: #6B6C6D;
+}
+
+.cinzaEscuro{
+    color: #6B6C6D;
+}
+.cinzaClaro{
+    color: #868686;
+}
+.cinzaBemClaro{ 
+    color: #DEE2E6;
+}
+.azul{
+    color: #007bff;
+}
+.verde{
+    color: #28a745;
+}
+.vermelho{
+    color: #E82431;
+}
+.amarelo{
+    color: #FDDF4C;
+}
+
+.entregue{
+    border-radius: 5px;
+    color: #ffffff;
+    text-align: center;
+    background-color: #28a745;
+    padding: 5px 15px;
+    margin-right: 50px;
+}
+.pendente{
+    border-radius: 5px;
+    color: #ffffff;
+    text-align: center;
+    background-color: #007bff;
+    padding: 5px 15px;
+    margin-right: 50px;
+}
+.cancelado{
+    border-radius: 5px;
+    color: #ffffff;
+    text-align: center;
+    background-color: #E82431;
+    padding: 5px 15px;
+    margin-right: 50px
+}
